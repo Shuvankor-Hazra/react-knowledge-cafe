@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/J30mZkm/blog-5.jpg",
+        "title": "The Mystery of the Lost Treasure",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/m9wCXLY/author-1.jpg",
+        "name": "John Doe",
+        "post_date": "2024-03-17",
+        "reading_time": 10,
+        "hashtags": [
+            "adventure",
+            "mystery",
+            "treasure"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/55m0ZSb/blog-6.jpg",
+        "title": "Cooking with Flavors: A Culinary Journey",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/HPJ5b0n/author-2.jpg",
+        "name": "Jane Smith",
+        "post_date": "2024-03-16",
+        "reading_time": 15,
+        "hashtags": [
+            "cooking",
+            "food",
+            "recipes"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/cF2vdF3/blog-3.jpg",
+        "title": "The Art of Mindfulness",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/m9wCXLY/author-1.jpg",
+        "name": "Emily Johnson",
+        "post_date": "2024-03-15",
+        "reading_time": 8,
+        "hashtags": [
+            "mindfulness",
+            "selfcare",
+            "meditation"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/Mktmjvs/blog-4.jpg",
+        "title": "Tech Innovations: Shaping the Future",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/HPJ5b0n/author-2.jpg",
+        "name": "Michael Brown",
+        "post_date": "2024-03-14",
+        "reading_time": 12,
+        "hashtags": [
+            "technology",
+            "innovation",
+            "future"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/H4gH2VR/blog-1.jpg",
+        "title": "Exploring the Cosmos: Journey to the Stars",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co/m9wCXLY/author-1.jpg",
+        "name": "David Lee",
+        "post_date": "2024-03-13",
+        "reading_time": 20,
+        "hashtags": [
+            "cosmos",
+            "space",
+            "exploration"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/VTZCckn/blog-2.jpg",
+        "title": "The Power of Positive Thinking",
+        "author": "Sarah Adams",
+        "author_img": "https://i.ibb.co/HPJ5b0n/author-2.jpg",
+        "name": "Sarah Adams",
+        "post_date": "2024-03-12",
+        "reading_time": 7,
+        "hashtags": [
+            "positivity",
+            "selfimprovement",
+            "mindset"
+        ]
+    }
+]
